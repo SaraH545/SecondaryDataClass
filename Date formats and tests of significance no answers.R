@@ -1,4 +1,4 @@
-#Date Formats
+##Date Formats
 
 #Convert character variables to dates (https://www.statmethods.net/input/dates.html)
 strDates <- c("01/05/1965", "08/16/1975")
